@@ -3,7 +3,8 @@ layout: post
 title:  "Designing beautiful automated browser tests"
 date:   2015-03-12 11:32:46
 author: "Bruno Palos"
-categories: tests pageobject browser latte protractor javascript angular automation api fluent pattern webdriver
+tags: tests pageobject browser latte protractor javascript angular automation api fluent pattern webdriver
+categories: tech tests
 ---
 During the last two years I worked with development teams that write their own automated tests. That’s right, developers who also write automated tests. However, sometimes developers tend to think that automating is boring and the lack of discipline when writing automated tests becomes a real problem. That problem reflects in the quality of the tests. That becomes evident when the tests are failing “for no apparent reason”. The majority of the times, the reasons are badly written tests or negligence.
 
