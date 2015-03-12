@@ -1,0 +1,16 @@
+# Site settings
+title: The Mindera Blog
+email: blog@mindera.com
+description:
+  We build high performance, resilient and scalable software systems to empower
+  global businesses. We are proud of our work and we love to learn
+  all and everything while navigating through a collaborative environment.
+baseurl: ""
+url: "https://github.com/Mindera"
+twitter_username: minderaswcraft
+github_username:  Mindera
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"

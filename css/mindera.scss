@@ -1,0 +1,294 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,900,100);
+html, body, ul, ol, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  color: #000000;
+}
+
+.background-image-1 {
+  background: url(/assets/background-1.jpg);
+}
+
+.background-image-2 {
+  background: url(/assets/background-2.jpg);
+}
+
+.hiring {
+  padding: 40px 40px 40px 40px;
+  padding: 4rem 4rem 4rem 4rem;
+}
+
+.btn-mindera {
+  background-color: #ffce38;
+  color: #58595b;
+}
+
+.job-intro {
+  padding: 20px 20px 20px 20px;
+  padding: 2rem 2rem 2rem 2rem;
+  margin: 0px 0px 20px 0px;
+  margin: 0rem 0rem 2rem 0rem;
+  background-image: url("/assets/transparent-background.png");
+  height: 220px;
+  height: 22rem;
+}
+.job-intro .btn {
+  position: absolute;
+  margin-top: 150px;
+  margin-top: 15rem;
+}
+
+.hiring .row > div {
+  padding-left: 0;
+}
+
+.job-spec-overlay {
+  position: fixed;
+  z-index: 1011;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow-y: scroll;
+  background-image: url("/assets/transparent-background.png");
+  padding: 40px 40px 40px 40px;
+  padding: 4rem 4rem 4rem 4rem;
+}
+.job-spec-overlay h4 {
+  padding: 20px 0px 10px 0px;
+  padding: 2rem 0rem 1rem 0rem;
+}
+
+.angular-google-map,
+.angular-google-map-container {
+  width: 100%;
+  height: 100%;
+}
+
+.contact {
+  position: absolute;
+  z-index: 1010;
+  display: block;
+  margin: 40px 40px 40px 40px;
+  margin: 4rem 4rem 4rem 4rem;
+  padding: 20px 20px 20px 20px;
+  padding: 2rem 2rem 2rem 2rem;
+  background-image: url("/assets/transparent-background.png");
+}
+
+.home, .home-small {
+  text-align: center;
+}
+
+.ipad .icon-scroll, .iphone .icon-scroll, .android .icon-scroll {
+  display: none !important;
+}
+
+.home {
+  background: url("/assets/wood2.jpg");
+  background-size: auto 100%;
+}
+.home .intro {
+  padding-top: 1;
+  padding: 30px 0px 0px 0px;
+  padding: 3rem 0rem 0rem 0rem;
+}
+.home .logo {
+  background: url("/assets/logo.png");
+  background-size: 100% 100%;
+  width: 25rem;
+  height: 15.5rem;
+  display: block;
+  margin: auto;
+}
+.home .logo span {
+  display: none;
+}
+.home .floating-header {
+  display: none;
+}
+.home .menu {
+  color: #ffce38;
+  font-family: "Raleway";
+  font-weight: 100;
+  font-size: 30px;
+  font-size: 3rem;
+  margin: 20px 0px 0px 0px;
+  margin: 2rem 0rem 0rem 0rem;
+}
+.home .menu a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.home h1 {
+  font-family: "Raleway";
+  font-weight: 100;
+  font-size: 50px;
+  font-size: 5rem;
+  color: #FFFFFF;
+  letter-spacing: 2px;
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  padding: 60px 10px 40px 10px;
+  padding: 6rem 1rem 4rem 1rem;
+}
+.home .slogan {
+  color: #FFFFFF;
+  font-family: "Raleway";
+  font-weight: 100;
+  font-size: 25px;
+  font-size: 2.5rem;
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+.home .icon-scroll {
+  position: relative;
+  display: block;
+  left: 50%;
+  margin-left: -12px;
+  margin-top: 70px;
+  width: 24px;
+  height: 43px;
+  background-image: url("/assets/scroll.png");
+}
+
+.unknown .floating h1, .unknown .floating .intro, .unknown .floating .slogan, .unknown .floating .icon-scroll {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 0.5s, opacity 0.5s linear;
+}
+
+html {
+  font-size: 62.5%;
+  background-color: #58595b;
+}
+
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.inner {
+  background: url(/assets/pattern-images.gif);
+}
+
+/**
+* HEADINGS
+*/
+h1 {
+  font-family: "Raleway";
+  font-weight: 100;
+  font-size: 50px;
+  font-size: 5rem;
+  color: #58595b;
+  padding: 20px 0px 0px 0px;
+  padding: 2rem 0rem 0rem 0rem;
+}
+
+h2 {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 40px;
+  font-size: 4rem;
+  color: #58595b;
+  padding: 0px 0px 10px 0px;
+  padding: 0rem 0rem 1rem 0rem;
+}
+
+h3 {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 30px;
+  font-size: 3rem;
+  text-align: center;
+  padding: 0px 0px 5px 0px;
+  padding: 0rem 0rem 0.5rem 0rem;
+  color: #58595b;
+}
+
+h4 {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 20px;
+  font-size: 2rem;
+  padding: 0px 0px 10px 0px;
+  padding: 0rem 0rem 1rem 0rem;
+}
+
+p, li {
+  font-size: 16px;
+  font-size: 1.6rem;
+}
+
+/**
+* PANELS
+*/
+.panel-content {
+  background: url("/assets/pattern-background.gif");
+  background-color: #f6f6f6;
+  padding: 40px 40px 40px 40px;
+  padding: 4rem 4rem 4rem 4rem;
+}
+
+.panel-content p, .panel-content li {
+  padding: 1px 0px 1px 0px;
+  padding: 0.1rem 0rem 0.1rem 0rem;
+  color: #58595b;
+}
+
+.panel-content li {
+  margin: 1px 0px 1px 20px;
+  margin: 0.1rem 0rem 0.1rem 2rem;
+}
+
+@media (max-width: 767px) {
+  html {
+    font-size: 8px;
+  }
+
+  h1, .home h1 {
+    font-family: "Raleway";
+    font-weight: 100;
+    font-size: 30px;
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 20px;
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 17px;
+    font-size: 1.7rem;
+  }
+
+  h4 {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 17px;
+    font-size: 1.7rem;
+  }
+
+  /**
+  * PANELS
+  */
+  .panel-content {
+    padding: 20px 20px 20px 20px;
+    padding: 2rem 2rem 2rem 2rem;
+  }
+}
+
+/*# sourceMappingURL=mindera-web.css.map */
