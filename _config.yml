@@ -14,3 +14,4 @@ github_username:  Mindera
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+encoding: utf-8
