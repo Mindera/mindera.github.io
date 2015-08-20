@@ -18,7 +18,8 @@ Some of these actions are simple, others are quite complex, and we can do those 
 
 **SO WHAT IS NEEDED TO HAVE A 'NO MANAGERS' WORK ENVIRONMENT?**
 
-[![No managers work environment][1]]
+![No managers work environment][1]
+<sup><sub>*[Photo][3] by [Jeremy Brooks][4] | [CC BY][5]*</sub></sup>
 
 **1. Act on what you want to see happening**
 
@@ -36,5 +37,8 @@ Once you know why your company exists, picture yourself driving your actions to 
 
 As we travel through this ‘new’ road of “no managers”, we know that we will need some trial and error to move forward, and I feel lucky to work and live in an environment where mistakes are seen as learning tools. This alone, could be strong enough to provide the necessary freedom and dare! to dream about a workplace where work is meaningful for everyone.
 
-[1]: http://i.imgur.com/2cMk2lR.jpg
+[1]: https://c2.staticflickr.com/4/3095/3217585986_958e84fb65_b.jpg
 [2]: http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en
+[3]: https://www.flickr.com/photos/jeremybrooks/3217585986/in/photostream/
+[4]: https://www.flickr.com/photos/jeremybrooks
+[5]: https://creativecommons.org/licenses/by-nc/2.0/
